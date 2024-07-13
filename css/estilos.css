@@ -61,6 +61,7 @@ body::after {
             height: 10px;
             display: inline-flex;
             margin-top: 0.5rem;
+            cursor: pointer;
 
             .circulo {
                 width: 1rem;
